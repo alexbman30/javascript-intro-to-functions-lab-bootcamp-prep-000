@@ -62,5 +62,5 @@ function logWhisper(string){
   console.log('hello')
 }
 function sayHiToGrandma(string){
-  return('HELLO').toEqual('hello')
+  return string
 }
