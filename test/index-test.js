@@ -64,4 +64,3 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   return('HELLO').toEqual('hello')
 }
-
